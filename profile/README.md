@@ -9,7 +9,7 @@
 </details>
 
 <details align="center">
-<summary><samp style="font-family: Arial;">Apresentação</samp></summary><br>
+<summary><samp style="font-family: Arial;">Apresentação</samp></summary>
   <h3>O que é o projeto PauloFreire.ai?</h3>
   <p>
     O projeto de TCC PauloFreire.ai é uma plataforma de ensino que visa auxiliar alunos que possuem defasagem no ensino e visam concorrer a uma vaga em uma das ETECs ou FATECs.
